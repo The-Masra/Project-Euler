@@ -10,9 +10,6 @@
 # 
 # What is the largest prime factor of the number 600851475143 ?
 
-# In[30]:
-
-
 def max_prime_factor(num):
     
     check = 1
@@ -27,9 +24,5 @@ def max_prime_factor(num):
             print("Largest prime factor of ",num , " is :",i)
             break
             
-    
-
-
-
+ 
 max_prime_factor(600851475143)
-
