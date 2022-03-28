@@ -11,18 +11,12 @@
 # 
 # By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 
-# In[ ]:
-
 
 def Is_even(n):
     if n % 2 == 0:
         return True
     else:
         return False
-
-
-# In[9]:
-
 
 first = 1
 second = 2
