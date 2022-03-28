@@ -9,7 +9,7 @@
 # 
 # Find the sum of all the multiples of 3 or 5 below 1000.
 
-# In[11]:
+
 
 
 def Multimple3or5(n):
@@ -19,7 +19,7 @@ def Multimple3or5(n):
         return False
 
 
-# In[12]:
+
 
 
 sum = 0
