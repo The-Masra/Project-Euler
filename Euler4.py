@@ -9,9 +9,6 @@
 # Find the largest palindrome made from the product of two 3-digit numbers.
 # 
 
-# In[118]:
-
-
 def palindrome(x):
     
     '''
