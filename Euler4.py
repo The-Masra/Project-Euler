@@ -32,6 +32,6 @@ def palindrome(x):
     print(n)
 
     
-x = int(input(print("Enter n-Digit of number you want to create Largest Palindrome:") ))
+x = int(input(print("Enter the n-Digit of the largest palindrome made from the product of two n-digit numbers:") ))
 palindrome(x)
 
